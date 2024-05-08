@@ -5,7 +5,7 @@ import (
 	"net/http"
 
 	"github.com/gorilla/mux"
-	"github.com/turanheydarli/collaborative-editor/internal/auth-service/routes"
+	"github.com/turanheydarli/collaborative-editor/services/auth-service/internal/routes"
 )
 
 func main() {
