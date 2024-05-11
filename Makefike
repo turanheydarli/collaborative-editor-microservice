@@ -1,0 +1,3 @@
+run: 
+	@go run /service/auth-service/cmd/main.go
+	
